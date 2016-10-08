@@ -1,4 +1,5 @@
 [![Stories in Ready](https://badge.waffle.io/level-upp/react-start.png?label=ready&title=Ready)](https://waffle.io/level-upp/react-start)
+[![Stories in Ready](https://badge.waffle.io/level-upp/react-start.png?label=ready&title=Ready)](https://waffle.io/level-upp/react-start)
 ## React Starter Kit — "[isomorphic](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/)" web app boilerplate
 
 > [React Starter Kit](https://www.reactstarterkit.com) is an opinionated
